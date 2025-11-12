@@ -1,0 +1,5 @@
+subreddit,degree_centrality,betweenness_centrality,eigenvector_centrality
+DataScience,1.0,0.6666666666666666,0.09171507496512765
+DeepLearning,1.0,0.0,0.689396259122934
+MachineLearning,1.0,0.0,0.3236766868666434
+learnmachinelearning,1.0,0.0,0.6415251712212688
