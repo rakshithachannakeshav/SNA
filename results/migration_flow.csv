@@ -1,0 +1,8 @@
+from_sub,to_sub,count
+DataScience,MachineLearning,2
+DataScience,learnmachinelearning,1
+DeepLearning,MachineLearning,3
+DeepLearning,learnmachinelearning,10
+MachineLearning,DeepLearning,5
+MachineLearning,learnmachinelearning,2
+learnmachinelearning,DeepLearning,9
